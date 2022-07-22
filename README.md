@@ -1,4 +1,4 @@
-# Decorate Your Portfolio
+# My first profile
 
 This is an activity for FSD Lesson 1.8.2.
 
